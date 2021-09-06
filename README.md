@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 In this [README](https://github.com/maxdevjs/maxdevjs) I failed to play:
- 
+
 - hosted and from YouTube, Vimeo, etc videos
 - games
 - with [Dragon](https://www.spacex.com/vehicles/dragon/)
@@ -25,11 +25,18 @@ In this [README](https://github.com/maxdevjs/maxdevjs) I failed to play:
 but I still can paste an emoji 😌
 
 <div align="center">
-  <p>And offer you a</p> 
+  <p>And offer you a</p>
   <div>
     <img src="https://github.com/maxdevjs/maxdevjs/raw/master/media/1f37a_1f31a.svg?sanitize=true">
     <p>P.S.: come back at some point in future, never knows...</p>
   </div>
-	<br>
-	<br>
+ <br>
+ <br>
+  
+</div>
+<div align="center">
+
+![Snake animation](media/github-contribution-grid-snake.svg)
+<small>[Original Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)</small>
+
 </div>
