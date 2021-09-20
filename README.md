@@ -32,9 +32,17 @@ but I still can paste an emoji 😌
   </div>
  <br>
  <br>
-  
 </div>
+
 <div align="center">
+
+  <details open>
+    <summary>GitHub stats bla bla</summary>
+      <a href="https://github.com/maxdevjs">
+      <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=maxdevjs&theme=react-dark"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxdevjs&show_icons=true&theme=tokyonight"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxdevjs&layout=compact&langs_count=7&theme=tokyonight"/>
+  </details>
 
 ![Snake animation](media/github-contribution-grid-snake.svg)
 <small>[Original Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)</small>
